@@ -8,3 +8,11 @@ My priortised learning areas are shown in the section `Learning Priorities`. `De
 
 # Prioritised Learning Areas
 
+Area                    Priority
+-----------------------------------------
+Docker                  1
+Kubernetes              2
+Database Querying       3
+Rake tasks              4
+React                   5
+Node                    6
